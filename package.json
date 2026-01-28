@@ -1,0 +1,16 @@
+{
+  "name": "problem_decomposer_tool",
+  "version": "1.0.0",
+  "description": "The **Problem Decomposer Tool** is a lightweight CLI / web-based utility designed to enforce *computational thinking before coding*.",
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "inquirer": "^13.2.1"
+  }
+}
