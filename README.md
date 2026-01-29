@@ -207,12 +207,3 @@ MIT
 
 Built as part of a broader effort to master **computational thinking, formal reasoning, and product-oriented software design**.
 
-problem-decomposer/
-├─ src/
-│  ├─ index.js
-│  ├─ prompts.js
-│  ├─ decomposer.js
-│  └─ output.js
-├─ README.md
-├─ LICENSE
-├─ package.json
